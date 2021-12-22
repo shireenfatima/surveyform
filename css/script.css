@@ -1,0 +1,45 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 800px;
+    height: auto;
+    border: solid 2px black;
+}
+#sf{
+    color:red;
+}
+.checked{
+    color: orange;
+}
+#sff{
+    margin-left: 178px;
+}
+#emailbox{
+    font-weight: bold;
+}
+.emailbox{
+    width: 57%;
+    
+}
+tr:nth-child(even){
+    background-color:lightgray;
+}
+tr:nth-child(odd){
+    background-color:white;
+}
+#table2{
+    font-weight: bold;
+    font-size:12px;
+}
+#additional{
+    font-size: 20px;
+
+}
+.btn{
+    color: aqua;
+    background-color:gray;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
